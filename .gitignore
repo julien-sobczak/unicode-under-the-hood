@@ -3,3 +3,4 @@ clfontpng
 examples/
 *.class
 *.o
+.DS_Store
