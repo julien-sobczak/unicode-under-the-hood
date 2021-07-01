@@ -1,6 +1,6 @@
 # Unicode Under the Hood
 
-This repository is the companion of the blog post [Unicode for Curious Developers Loving Emojis and Code 😉](https://www.juliensobczak.com/inspect/2021/06/19/unicode-for-developers.html).
+This repository is the companion of the blog posts [Unicode for Curious Developers Loving Code 😉](https://www.juliensobczak.com/inspect/2021/06/19/unicode-for-curious-developers.html) and [Unicode for Impatient Developers Loving Puzzlers 🤔](https://www.juliensobczak.com/inspect/2021/06/29/unicode-for-impatient-developers.html).
 
 It contains short programs written to illustrate different aspects of Unicode.
 
@@ -13,6 +13,7 @@ php/             # Demo programs written in PHP
 python/          # Demo programs written in Python
 rendering/       # C program to illustrate the text rendering
 representation/  # Basic implementation of a string type in Python
+puzzlers/        # Some programs illustrating some Unicode piftalls
 ```
 
 Directories named after a programming language contains some of the following files:
